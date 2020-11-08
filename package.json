@@ -1,0 +1,11 @@
+{
+  "name": "prtube",
+  "version": "1.0.0",
+  "description": "clone prtube",
+  "main": "index.js",
+  "author": "jaegyong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
