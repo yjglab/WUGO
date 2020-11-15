@@ -8,7 +8,7 @@ const SEARCH = "/search";
 // Users
 
 const USERS = "/users";
-const USER_DETAIL = "/users";
+const USER_DETAIL = "/:id";
 const EDIT_PROFILE = "/edit-profile";
 const CHANGE_PASSWORD = "/change-password";
 
@@ -17,7 +17,7 @@ const CHANGE_PASSWORD = "/change-password";
 const VIDEOS = "/videos";
 const UPLOAD = "/upload";
 const VIDEO_DETAIL = "/:id";
-const EDIT_VIDEO = "/:id.edit";
+const EDIT_VIDEO = "/:id/edit";
 const DELETE_VIDEO = "/:id/delete"; // : 의 의미_ 값이 변한다.
 
 const routes = {
