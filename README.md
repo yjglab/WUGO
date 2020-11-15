@@ -1,6 +1,7 @@
-# WUGO - Cat Videos Collection
+# WUGO
 
-clone prtube
+Cat Videos Platform.
+Personal WEB project.
 
 ## Pages:
 
