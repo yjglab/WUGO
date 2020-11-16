@@ -4,7 +4,8 @@ export const videos = [
     title: "Rand VIdeo",
     description: "This is randomed",
     views: 66,
-    videoFile: "https://youtu.be/atr9l6UpdFY",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 182859,
       name: "cat",
@@ -16,7 +17,8 @@ export const videos = [
     title: "Rand2 VIdeo",
     description: "This is randomed",
     views: 926,
-    videoFile: "https://youtu.be/atr9l6UpdFY",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 182859,
       name: "cat",
@@ -28,7 +30,8 @@ export const videos = [
     title: "Rand3 VIdeo",
     description: "This is randomed",
     views: 66,
-    videoFile: "https://youtu.be/atr9l6UpdFY",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 182859,
       name: "cat",
@@ -40,7 +43,8 @@ export const videos = [
     title: "Rand4 VIdeo",
     description: "This is randomed",
     views: 1166,
-    videoFile: "https://youtu.be/atr9l6UpdFY",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 182859,
       name: "cat",
