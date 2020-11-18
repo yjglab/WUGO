@@ -2,7 +2,7 @@ import { videos } from "../db";
 import routes from "../routes";
 
 export const home = (req, res) => {
-  res.render("home", { pageTitle: "Home", videos });
+  res.render("home", { pageTitle: "Home", videos }); // home 템플릿 파일, 객체 정보(pageTitle),
 };
 
 export const search = (req, res) => {

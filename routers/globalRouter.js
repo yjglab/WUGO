@@ -11,7 +11,7 @@ import {
 
 const globalRouter = express.Router();
 
-globalRouter.get(routes.join, getJoin);
+globalRouter.get(routes.join, getJoin); // 라우트변수, 함수
 globalRouter.post(routes.join, postJoin);
 
 globalRouter.get(routes.login, getLogin);
