@@ -27,5 +27,7 @@ const VideoSchema = new mongoose.Schema({
 });
 
 const model = mongoose.model("Video", VideoSchema);
+// 모듈을 사용하고 있기 때문에 각 파일의 각 'const'는 다른 모든 파일과
+// 격리됨. 코드를 컴파일하면 모두 다른 이름을 갖게됨.
 
 export default model;
