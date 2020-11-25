@@ -1,7 +1,6 @@
 # WUGO
 
-Cat Videos Platform.
-Personal Project : WEB video platform service.
+Personal Project : Pet Videos Share Platform.
 
 ## Pages:
 
